@@ -26,7 +26,7 @@ The University Management System is a Java-based application designed to manage 
 
 ## Project Structure
 university-management/
-"
+"""
 ├── dao/
 │ ├── ClassCourseDAO.java 
 │ ├── ClassDepartmentDAO.java
@@ -54,7 +54,7 @@ university-management/
 │ └── serviceAdmin.java
 ├── Main.java
 └── README.md
-"
+"""
 
 ## Setup and Installation
 
