@@ -70,7 +70,7 @@ university-management/
 2-Open the project in your IDE:
 
 Import the project as a Java project if you are using an IDE like Eclipse or IntelliJ IDEA.
-3- Compile the project:
+```3- Compile the project:```
 
 If using command line:
   javac -d bin $(find . -name "*.java")
