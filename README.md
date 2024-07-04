@@ -82,7 +82,6 @@ Start the application:
 
 The console will display a menu for selecting user type:
 markdown
-نسخ الكود
 Select user type:
 1. Admin
 2. Professor
